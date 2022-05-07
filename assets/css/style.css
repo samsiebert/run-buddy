@@ -16,7 +16,7 @@ header {
 }
 
 header h1 {
-    front-weight: bold;
+    font-weight: bold;
     font-size: 36px;
     color: #fce138;
     margin: 0;
